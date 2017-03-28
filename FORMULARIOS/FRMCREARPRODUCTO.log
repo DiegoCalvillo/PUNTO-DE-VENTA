@@ -1,0 +1,6 @@
+Línea 33: la clase MSDataGridLib.DataGrid del control Grillaproductos no era una clase de control cargada.
+Línea 104: la clase MSDataListLib.DataCombo del control DTCProveedores no era una clase de control cargada.
+Línea 110: el nombre de la propiedad _ExtentX de DTCProveedores no es válido.
+Línea 111: el nombre de la propiedad _ExtentY de DTCProveedores no es válido.
+Línea 112: el nombre de la propiedad _Version de DTCProveedores no es válido.
+Línea 113: el nombre de la propiedad Text de DTCProveedores no es válido.

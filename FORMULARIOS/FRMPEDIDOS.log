@@ -1,0 +1,34 @@
+Línea 14: la clase MSAdodcLib.Adodc del control Adodc1 no era una clase de control cargada.
+Línea 174: la clase MSDataGridLib.DataGrid del control GrillaProductos no era una clase de control cargada.
+Línea 245: la clase MSDataListLib.DataCombo del control DTCProveedores no era una clase de control cargada.
+Línea 20: el nombre de la propiedad _ExtentX de Adodc1 no es válido.
+Línea 21: el nombre de la propiedad _ExtentY de Adodc1 no es válido.
+Línea 22: el nombre de la propiedad ConnectMode de Adodc1 no es válido.
+Línea 23: el nombre de la propiedad CursorLocation de Adodc1 no es válido.
+Línea 24: el nombre de la propiedad IsolationLevel de Adodc1 no es válido.
+Línea 25: el nombre de la propiedad ConnectionTimeout de Adodc1 no es válido.
+Línea 26: el nombre de la propiedad CommandTimeout de Adodc1 no es válido.
+Línea 27: el nombre de la propiedad CursorType de Adodc1 no es válido.
+Línea 28: el nombre de la propiedad LockType de Adodc1 no es válido.
+Línea 29: el nombre de la propiedad CommandType de Adodc1 no es válido.
+Línea 30: el nombre de la propiedad CursorOptions de Adodc1 no es válido.
+Línea 31: el nombre de la propiedad CacheSize de Adodc1 no es válido.
+Línea 32: el nombre de la propiedad MaxRecords de Adodc1 no es válido.
+Línea 33: el nombre de la propiedad BOFAction de Adodc1 no es válido.
+Línea 34: el nombre de la propiedad EOFAction de Adodc1 no es válido.
+Línea 35: el nombre de la propiedad ConnectStringType de Adodc1 no es válido.
+Línea 39: el nombre de la propiedad Orientation de Adodc1 no es válido.
+Línea 41: el nombre de la propiedad Connect de Adodc1 no es válido.
+Línea 42: el nombre de la propiedad OLEDBString de Adodc1 no es válido.
+Línea 43: el nombre de la propiedad OLEDBFile de Adodc1 no es válido.
+Línea 44: el nombre de la propiedad DataSourceName de Adodc1 no es válido.
+Línea 45: el nombre de la propiedad OtherAttributes de Adodc1 no es válido.
+Línea 46: el nombre de la propiedad UserName de Adodc1 no es válido.
+Línea 47: el nombre de la propiedad Password de Adodc1 no es válido.
+Línea 48: el nombre de la propiedad RecordSource de Adodc1 no es válido.
+Línea 49: el nombre de la propiedad Caption de Adodc1 no es válido.
+Línea 59: el nombre de la propiedad _Version de Adodc1 no es válido.
+Línea 251: el nombre de la propiedad _ExtentX de DTCProveedores no es válido.
+Línea 252: el nombre de la propiedad _ExtentY de DTCProveedores no es válido.
+Línea 253: el nombre de la propiedad _Version de DTCProveedores no es válido.
+Línea 254: el nombre de la propiedad Text de DTCProveedores no es válido.

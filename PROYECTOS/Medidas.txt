@@ -1,0 +1,13 @@
+Tabla Usuarios Cajas de Texto
+
+Width 2415
+
+Medida de los botones GENERAL
+
+Height 735
+Width 975
+
+Medida de DataGrid
+
+Height 2295
+Width 9135
